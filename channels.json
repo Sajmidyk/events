@@ -1,0 +1,110 @@
+[
+  {
+    "id": "novasport1",
+    "title": "Nova Sport 1",
+    "url": "https://hitlerserver.vercel.app/play/Nova%20Sport%201.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "novasport2",
+    "title": "Nova Sport 2",
+    "url": "https://hitlerserver.vercel.app/play/Nova%20Sport%202.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "novasport3",
+    "title": "Nova Sport 3",
+    "url": "https://hitlerserver.vercel.app/play/Nova%20Sport%203.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "novasport4",
+    "title": "Nova Sport 4",
+    "url": "https://hitlerserver.vercel.app/play/Nova%20Sport%204.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "novasport5",
+    "title": "Nova Sport 5",
+    "url": "https://hitlerserver.vercel.app/play/Nova%20Sport%205.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "novasport6",
+    "title": "Nova Sport 6",
+    "url": "https://hitlerserver.vercel.app/play/Nova%20Sport%206.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "premiersport1",
+    "title": "Premier Sport 1",
+    "url": "https://hitlerserver.vercel.app/play/Premier%20Sport%201.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "premiersport2",
+    "title": "Premier Sport 2",
+    "url": "https://hitlerserver.vercel.app/play/Premier%20Sport%202.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "premiersport3",
+    "title": "Premier Sport 3",
+    "url": "https://hitlerserver.vercel.app/play/Premier%20Sport%203.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "canalsport1",
+    "title": "CANAL+ Sport 1",
+    "url": "https://hitlerserver.vercel.app/play/CANAL%2B%20Sport.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "canalsport2",
+    "title": "CANAL+ Sport 2",
+    "url": "https://hitlerserver.vercel.app/play/CANAL%2B%20Sport%202.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "canalsport3",
+    "title": "CANAL+ Sport 3",
+    "url": "https://hitlerserver.vercel.app/play/CANAL%2B%20Sport%203.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "canalsport4",
+    "title": "CANAL+ Sport 4",
+    "url": "https://hitlerserver.vercel.app/play/CANAL%2B%20Sport%204.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "canalsport5",
+    "title": "CANAL+ Sport 5",
+    "url": "https://hitlerserver.vercel.app/play/CANAL%2B%20Sport%205.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "canalsport6",
+    "title": "CANAL+ Sport 6",
+    "url": "https://hitlerserver.vercel.app/play/CANAL%2B%20Sport%206.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "canalsport7",
+    "title": "CANAL+ Sport 7",
+    "url": "https://hitlerserver.vercel.app/play/CANAL%2B%20Sport%207.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "canalsport8",
+    "title": "CANAL+ Sport 8",
+    "url": "https://hitlerserver.vercel.app/play/CANAL%2B%20Sport%208.m3u8",
+    "clearkeys": {}
+  },
+  {
+    "id": "ctsport",
+    "title": "ČT Sport",
+    "url": "https://hitlerserver.vercel.app/play/%C4%8CT%20Sport.m3u8",
+    "clearkeys": {}
+  }
+]
