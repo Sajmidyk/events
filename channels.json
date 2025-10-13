@@ -1,5 +1,5 @@
 [
-  // Czech channels
+  # Czech channels
   {
     "id": "novasport1",
     "title": "Nova Sport 1",
@@ -108,7 +108,7 @@
     "url": "https://hitlerserver.vercel.app/play/%C4%8CT%20Sport.m3u8",
     "clearkeys": {}
   },
-// Sky Sport NZ channels
+# Sky Sport NZ channels
   {
     "id": "skysport1nz",
     "title": "Sky Sport 1 NZ",
