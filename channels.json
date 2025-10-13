@@ -107,10 +107,6 @@
     "url": "https://hitlerserver.vercel.app/play/%C4%8CT%20Sport.m3u8",
     "clearkeys": {}
   },
-
-  
-  
-  
   {
     "id": "skysport1nz",
     "title": "Sky Sport 1 NZ",
@@ -183,13 +179,10 @@
     "url": "https://haka.decryptfactory.com/espn2/master.mpd",
     "clearkeys": {"a01e1e0d5fb145b8b33190588490a27a": "bfd9e3b0866e49cbae1bb7f7116451c9"}
   },
-
-
   {
     "id": "rsila2",
     "title": "RSI La2",
     "url": "https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
     "clearkeys": {}
   }
-  
 ]
