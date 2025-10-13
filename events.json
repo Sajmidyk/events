@@ -8,9 +8,9 @@
     "image": "https://files.catbox.moe/b2c6hd.jpg",
     "alt_text": "",
     "links": [
-      {"text": "Nova Sport 5", "url": "https://sajmi.me/#novasport5", "fhd": true},
-      {"text": "Sky Sport 3 NZ", "url": "https://sajmi.me/#skysport3nz", "fhd": true},
-      {"text": "RSI La2", "url": "https://sajmi.me/#rsila2", "fhd": false}
+      {"text": "Nova Sport 5", "url": "https://sajmi.me/tv/czsk/novasport5", "fhd": true},
+      {"text": "Sky Sport 3 NZ", "url": "https://sajmi.me/tv/en/skysport3nz", "fhd": true},
+      {"text": "RSI La2", "url": "https://sajmi.me/tv/en/rsila2", "fhd": false}
     ]
   },
   {
@@ -40,7 +40,7 @@
     "image": "https://corsproxy.io/?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38sRqismHsFxKeXNDFQ5e-F8KZoiqrs8O_CWv-H3RlQ&s",
     "alt_text": "",
     "links": [
-      {"text": "Nova Sport 6", "url": "https://sajmi.me/#novasport6", "fhd": true},
+      {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
       {"text": "ESPN+", "url": "https://streambetter.cyou/play/play.php?id=724", "fhd": true},
       {"text": "PPV 2", "url": "https://dlhd.dad/stream/stream-86.php", "fhd": false},
       {"text": "TNT Sports 1", "url": "https://dlhd.dad/stream/stream-31.php", "fhd": false}
@@ -55,7 +55,7 @@
     "image": "https://corsproxy.io/?url=https://www.fight-live.cz/obrazek/68af17042d09f/ksw-foto.jpg",
     "alt_text": "",
     "links": [
-      {"text": "Nova Sport 1", "url": "https://sajmi.me/#novasport1", "fhd": true},
+      {"text": "Nova Sport 1", "url": "https://sajmi.me/tv/czsk/novasport1", "fhd": true},
       {"text": "NS 1 alt", "url": "https://sajmi.me/#novasport1mazana", "fhd": true}
 
     ]
