@@ -9,7 +9,7 @@
     "alt_text": "",
     "links": [
       {"text": "Nova Sport 5", "url": "https://sajmi.me/tv/czsk/novasport5", "fhd": true},
-      {"text": "Sky Sport 3 NZ", "url": "https://sajmi.me/tv/en/skysport3nz", "fhd": true},
+      {"text": "Sky Sport 3 NZ", "url": "https://sajmi.me/tv/en/skysport3", "fhd": true},
       {"text": "RSI La2", "url": "https://sajmi.me/tv/en/rsila2", "fhd": false}
     ]
   },
@@ -56,7 +56,7 @@
     "alt_text": "",
     "links": [
       {"text": "Nova Sport 1", "url": "https://sajmi.me/tv/czsk/novasport1", "fhd": true},
-      {"text": "NS 1 alt", "url": "https://sajmi.me/#novasport1mazana", "fhd": true}
+      {"text": "NS 1 alt", "url": "https://sajmi.me/tv/czsk/novasport1mazana", "fhd": true}
 
     ]
   }
