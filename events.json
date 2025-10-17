@@ -60,4 +60,17 @@
 
     ]
   }
+  {
+    "id": "5",
+    "title": "RFA 25",
+    "meta_badge": "Zimný štadión",
+    "meta_info": "Žilina",
+    "datetime": "2025-10-18T18:00:00",
+    "image": "https://corsproxy.io/?url=https://rfa.live/sk/wp-content/uploads/2025/10/RFA_25-ZILINA-karta.jpg",
+    "alt_text": "",
+    "links": [
+      {"text": "PPV 1", "url": "https://sajmi.me/tv/rfa/ppv", "fhd": true},
+
+    ]
+  }
 ]
