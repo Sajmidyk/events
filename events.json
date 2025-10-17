@@ -69,7 +69,7 @@
     "image": "https://corsproxy.io/?url=https://rfa.live/sk/wp-content/uploads/2025/10/RFA_25-ZILINA-karta.jpg",
     "alt_text": "",
     "links": [
-      {"text": "PPV 1", "url": "https://sajmi.me/tv/ppv/rfa/ppv", "fhd": true}
+      {"text": "PPV 1", "url": "https://sajmi.me/tv/ppv/rfa/ppv", "fhd": true},
       {"text": "Dajto (20:30)", "url": "https://sajmi.me/tv/ppv/rfa/dajto", "fhd": true}
 
     ]
