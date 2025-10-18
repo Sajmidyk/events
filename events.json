@@ -41,6 +41,7 @@
     "image": "https://corsproxy.io/?url=https://ufc.com/images/styles/background_image_lg/s3/2025-09/101825-ufc-fight-night-de-ridder-vs-allen-EVENT-ART.jpg",
     "alt_text": "",
     "links": [
+      {"text": "ESPN+", "url": "https://sajmi.me/tv/czsk/espnplus", "fhd": true},
       {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
       {"text": "TNT Sports 1", "url": "https://dlhd.dad/stream/stream-31.php", "fhd": false}
     ]
