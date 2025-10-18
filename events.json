@@ -14,23 +14,22 @@
   },
   {
     "id": "2",
-    "title": "OKTAGON 78",
-    "meta_badge": "Eckerlin vs. Trušček",
-    "meta_info": "Kolín",
-    "datetime": "2025-10-18T17:30:00",
-    "image": "https://corsproxy.io/?url=https://assets.oktagonmma.com/BANNER_MOBILE_IMAGE/79304113-8eb2-4247-929c-53291669ef10/cs.1757764149020.jpg",
+    "title": "OKTAGON 79",
+    "meta_badge": "SURDU VS. KALAŠNIK",
+    "meta_info": "Brno",
+    "datetime": "2025-11-1T17:30:00",
+    "image": "https://corsproxy.io/?url=https://assets.oktagonmma.com/BANNER_DETAIL_IMAGE/82d00809-e0ae-4b25-b19c-6e2846f24d21/cs.1757764449575.jpg",
     "alt_text": "",
     "links": [
-      {"text": "PPV CZ", "url": "https://streambetter.cyou/play/play.php?id=722", "fhd": true},
-      {"text": "PPV NJ", "url": "https://sajmi.me/tv/ppv/oktagon/rtl+", "fhd": true},
-      {"text": "PPV EN", "url": "https://ppv.to/embed/oktagon-78-english", "fhd": true},
-      {"text": "CZ❌", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonCZ", "fhd": false},
-      {"text": "EN❌", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonEN", "fhd": false},
-      {"text": "DE❌", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonDE", "fhd": false},
-      {"text": "Karlos❌", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonKarlos", "fhd": false},
-      {"text": "Referee❌", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonReferee", "fhd": false},
-      {"text": "Blue Corner❌", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonBlue", "fhd": false},
-      {"text": "Red Corner❌", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonRed", "fhd": false}
+      {"text": "CZ", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonCZ", "fhd": false},
+      {"text": "EN", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonEN", "fhd": false},
+      {"text": "DE", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonDE", "fhd": false},
+      {"text": "DE RTL+", "url": "https://sajmi.me/tv/ppv/oktagon/rtl+", "fhd": true},
+      {"text": "Karlos", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonKarlos", "fhd": false},
+      {"text": "Referee", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonReferee", "fhd": false},
+      {"text": "Blue Corner", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonBlue", "fhd": false},
+      {"text": "Red Corner", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonRed", "fhd": false},
+      {"text": "EN (ads)", "url": "https://ppv.to/embed/oktagon-78-english", "fhd": false}
     ]
   },
   {
@@ -43,8 +42,6 @@
     "alt_text": "",
     "links": [
       {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
-      {"text": "ESPN+", "url": "https://streambetter.cyou/play/play.php?id=724", "fhd": true},
-      {"text": "PPV 2", "url": "https://dlhd.dad/stream/stream-86.php", "fhd": false},
       {"text": "TNT Sports 1", "url": "https://dlhd.dad/stream/stream-31.php", "fhd": false}
     ]
   }
