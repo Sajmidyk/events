@@ -47,19 +47,5 @@
       {"text": "PPV 2", "url": "https://dlhd.dad/stream/stream-86.php", "fhd": false},
       {"text": "TNT Sports 1", "url": "https://dlhd.dad/stream/stream-31.php", "fhd": false}
     ]
-  },
-  {
-    "id": "4",
-    "title": "XTB KSW 111",
-    "meta_badge": "Werk Arena",
-    "meta_info": "Třinec",
-    "datetime": "2025-10-18T19:00:00",
-    "image": "https://corsproxy.io/?url=https://www.fight-live.cz/obrazek/68af17042d09f/ksw-foto.jpg",
-    "alt_text": "",
-    "links": [
-      {"text": "Nova Sport 2", "url": "https://sajmi.me/tv/czsk/novasport2", "fhd": true},
-      {"text": "NS 2 alt", "url": "https://sajmi.me/tv/czsk/novasport2mazana", "fhd": true}
-
-    ]
   }
 ]
