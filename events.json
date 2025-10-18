@@ -45,5 +45,19 @@
       {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
       {"text": "TNT Sports 1", "url": "https://dlhd.dad/stream/stream-31.php", "fhd": false}
     ]
+  },
+  {
+    "id": "3",
+    "title": "UFC 321: Aspinall vs Gane",
+    "meta_badge": "Etihad Arena",
+    "meta_info": "United Arab Emirates",
+    "datetime": "2025-10-25T16:00:00",
+    "image": "https://corsproxy.io/?url=https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/100194834/16x9/1280x720_20251015215434.jpg&showBadge=true&package=ESPN_PLUS",
+    "alt_text": "",
+    "links": [
+      {"text": "ESPN+", "url": "https://sajmi.me/tv/ppv/espnplus", "fhd": true},
+      {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
+      {"text": "TNT Sports 1", "url": "https://dlhd.dad/stream/stream-31.php", "fhd": false}
+    ]
   }
 ]
