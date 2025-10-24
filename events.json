@@ -42,7 +42,8 @@
     "alt_text": "",
     "links": [
       {"text": "ESPN+", "url": "https://sajmi.me/tv/ppv/espnplus", "fhd": true},
-      {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true}
+      {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
+      {"text": "TNT", "url": "https://sajmi.me/tv/ppv/tnt", "fhd": true}
     ]
   }
 ]
