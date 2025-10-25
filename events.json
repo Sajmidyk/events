@@ -41,8 +41,8 @@
     "image": "https://corsproxy.io/?url=https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/100194834/16x9/1280x720_20251015215434.jpg&showBadge=true&package=ESPN_PLUS",
     "alt_text": "",
     "links": [
-      {"text": "ESPN+", "url": "https://sajmi.me/tv/ppv/espnplus", "fhd": true},
       {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
+      {"text": "ESPN+", "url": "https://sajmi.me/tv/ppv/espnplus", "fhd": true},
       {"text": "PPV 1", "url": "https://ppv.to/embed/ufc-321-aspinall-vs.-gane", "fhd": false},
       {"text": "PPV 2", "url": "https://dlhd.dad/stream/stream-159.php", "fhd": false},
       {"text": "PPV 3", "url": "https://dlhd.dad/player/stream-159.php", "fhd": false},
