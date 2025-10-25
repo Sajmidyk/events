@@ -43,7 +43,10 @@
     "links": [
       {"text": "ESPN+", "url": "https://sajmi.me/tv/ppv/espnplus", "fhd": true},
       {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
-      {"text": "TNT", "url": "https://sajmi.me/tv/ppv/tnt", "fhd": true}
+      {"text": "PPV 1", "url": "https://ppv.to/embed/ufc-321-aspinall-vs.-gane", "fhd": false},
+      {"text": "PPV 2", "url": "https://dlhd.dad/stream/stream-159.php", "fhd": false},
+      {"text": "PPV 3", "url": "https://dlhd.dad/player/stream-159.php", "fhd": false},
+      {"text": "PPV 4", "url": "https://dlhd.dad/cast/stream-159.php", "fhd": false}
     ]
   }
 ]
