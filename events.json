@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "title": "Mexican Grand Prix",
-    "meta_badge": "24. - 26.",
+    "title": "Brazilian Grand Prix",
+    "meta_badge": "7. - 9.",
     "meta_info": "Formule 1",
-    "datetime": "2025-10-26T21:00:00",
-    "image": "https://corsproxy.io/?url=https://idsb.tmgrup.com.tr/ly/uploads/images/2023/10/30/298929.jpg",
+    "datetime": "2025-10-26T18:00:00",
+    "image": "https://corsproxy.io/?url=https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Brazil.webp",
     "alt_text": "",
     "links": [
       {"text": "Nova Sport 5", "url": "https://sajmi.me/tv/czsk/novasport5", "fhd": true},
