@@ -35,11 +35,11 @@
   },
   {
     "id": "3",
-    "title": "UFC 321: Aspinall vs Gane",
-    "meta_badge": "Etihad Arena",
-    "meta_info": "United Arab Emirates",
-    "datetime": "2025-10-25T16:00:00",
-    "image": "https://corsproxy.io/?url=https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/100194834/16x9/1280x720_20251015215434.jpg&showBadge=true&package=ESPN_PLUS",
+    "title": "UFC Fight Night: Garcia vs Onama",
+    "meta_badge": "UFC APEX",
+    "meta_info": "Las Vegas",
+    "datetime": "2025-11-2T21:00:00",
+    "image": "https://corsproxy.io/?url=https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/100195602/16x9/1280x720_20251025011839.jpg&showBadge=true&package=ESPN_PLUS",
     "alt_text": "",
     "links": [
       {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
