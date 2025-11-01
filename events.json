@@ -22,14 +22,14 @@
     "image": "https://corsproxy.io/?url=https://assets.oktagonmma.com/BANNER_DETAIL_IMAGE/82d00809-e0ae-4b25-b19c-6e2846f24d21/cs.1757764449575.jpg",
     "alt_text": "",
     "links": [
-      {"text": "CZ", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonCZ", "fhd": false},
-      {"text": "EN", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonEN", "fhd": false},
-      {"text": "DE", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonDE", "fhd": false},
-      {"text": "DE RTL+", "url": "https://sajmi.me/tv/ppv/oktagon/rtl+", "fhd": true},
+      {"text": "CZ", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonCZ", "fhd": true},
+      {"text": "EN", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonEN", "fhd": true},
+      {"text": "DE", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonDE", "fhd": true},
       {"text": "Karlos", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonKarlos", "fhd": false},
       {"text": "Referee", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonReferee", "fhd": false},
       {"text": "Blue Corner", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonBlue", "fhd": false},
       {"text": "Red Corner", "url": "https://sajmi.me/tv/ppv/oktagon/oktagonRed", "fhd": false},
+      {"text": "DE RTL+", "url": "https://sajmi.me/tv/ppv/oktagon/rtl+", "fhd": false},
       {"text": "EN (ads)", "url": "https://ppv.to/embed/oktagon-79/en", "fhd": false},
       {"text": "CZ (ads)", "url": "https://ppv.to/embed/oktagon-79/cz", "fhd": false}
     ]
