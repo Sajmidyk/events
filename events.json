@@ -36,11 +36,11 @@
   },
   {
     "id": "3",
-    "title": "UFC Fight Night: Garcia vs Onama",
-    "meta_badge": "UFC APEX",
-    "meta_info": "Las Vegas",
-    "datetime": "2025-11-02T21:00:00",
-    "image": "https://corsproxy.io/?url=https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=720&width=1280&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https://artwork.espncdn.com/events/100195602/16x9/1280x720_20251025011839.jpg&showBadge=true&package=ESPN_PLUS",
+    "title": "VeChain UFC 322: Della Maddalena vs Makhachev",
+    "meta_badge": "Madison Square Garden",
+    "meta_info": "New York",
+    "datetime": "2025-11-16T00:10:00",
+    "image": "https://corsproxy.io/?url=https://notifight.com/download/multimedia.normal.90cc2786ee3caf98.bm9ybWFsLndlYnA%3D.webp",
     "alt_text": "",
     "links": [
       {"text": "ESPN+", "url": "https://sajmi.me/tv/ppv/espnplus", "fhd": true},
