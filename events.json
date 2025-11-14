@@ -15,13 +15,13 @@
   {
     "id": "4",
     "title": "KOW 3: Grand Prix",
-    "meta_badge": "",
-    "meta_info": "1",
+    "meta_badge": "Nová Spirála",
+    "meta_info": "Praha Holešovice",
     "datetime": "2025-11-14T18:00:00",
     "image": "https://corsproxy.io/?url=https://ossa.kowarriors.cz/uploads/KOW_3_8212a59311.png",
     "alt_text": "",
     "links": [
-      {"text": "Nova Sport 5", "url": "https://sajmi.me/tv/czsk/oneplaysportmd7", "fhd": true}
+      {"text": "Oneplay Sport MD7", "url": "https://sajmi.me/tv/czsk/oneplaysportmd7", "fhd": true}
     ]
   },
   {
