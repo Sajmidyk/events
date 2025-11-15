@@ -13,19 +13,6 @@
     ]
   },
   {
-    "id": "4",
-    "title": "RFA 26",
-    "meta_badge": "Steel Aréna Košice.",
-    "meta_info": "Košice",
-    "datetime": "2025-11-15T18:30:00",
-    "image": "https://corsproxy.io/?url=https://7sport.cz/wp-content/uploads/2025/11/rfa-26.jpg",
-    "alt_text": "",
-    "links": [
-      {"text": "Dajto", "url": "https://sajmi.me/tv/czsk/dajto", "fhd": true},
-      {"text": "Dajto alt", "url": "https://cdn01-lab.flexitv.sk/DajTo_HD/embed", "fhd": true}
-    ]
-  },
-  {
     "id": "2",
     "title": "OKTAGON 80",
     "meta_badge": "Legierski vs. Korkmaz",
@@ -56,9 +43,10 @@
     "alt_text": "",
     "links": [
       {"text": "ESPN+", "url": "https://sajmi.me/tv/ppv/espnplus", "fhd": true},
+      {"text": "Fight Pass", "url": "https://sajmi.me/tv/ppv/ufcfightpass", "fhd": true},
       {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
       {"text": "PPV 1", "url": "https://ppv.to/embed/ufc-322", "fhd": false},
-      {"text": "PPV 2", "url": "https://dlhd.dad/stream/stream-107.php", "fhd": false},
+      {"text": "PPV 2", "url": "https://lotusgamehd.xyz/streamed.php?hd=111&id=17341&no=1", "fhd": false},
       {"text": "PPV 3", "url": "https://dlhd.dad/cast/stream-107.php", "fhd": false}
     ]
   }
