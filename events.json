@@ -13,6 +13,20 @@
     ]
   },
   {
+    "id": "4",
+    "title": "RFA 26",
+    "meta_badge": "Steel Aréna Košice.",
+    "meta_info": "Košice",
+    "datetime": "2025-11-15T18:30:00",
+    "image": "https://corsproxy.io/?url=https://7sport.cz/wp-content/uploads/2025/11/rfa-26.jpg",
+    "alt_text": "",
+    "links": [
+      {"text": "PPV 1", "url": "https://starstreams.pro/embed/?id=1", "fhd": true},
+      {"text": "Dajto (20:30)", "url": "https://sajmi.me/tv/czsk/dajto", "fhd": true},
+      {"text": "Dajto (20:30) alt", "url": "https://cdn01-lab.flexitv.sk/DajTo_HD/embed", "fhd": true}
+    ]
+  },
+  {
     "id": "2",
     "title": "OKTAGON 80",
     "meta_badge": "Legierski vs. Korkmaz",
