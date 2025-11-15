@@ -57,7 +57,7 @@
     "links": [
       {"text": "ESPN+", "url": "https://sajmi.me/tv/ppv/espnplus", "fhd": true},
       {"text": "Nova Sport 6", "url": "https://sajmi.me/tv/czsk/novasport6", "fhd": true},
-      {"text": "PPV 1", "url": "https://ppv.to/embed/ufc-322-dela-maddalena-vs.-makhachev", "fhd": false},
+      {"text": "PPV 1", "url": "https://ppv.to/embed/ufc-322", "fhd": false},
       {"text": "PPV 2", "url": "https://dlhd.dad/stream/stream-107.php", "fhd": false},
       {"text": "PPV 3", "url": "https://dlhd.dad/cast/stream-107.php", "fhd": false}
     ]
